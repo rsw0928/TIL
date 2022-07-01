@@ -3,11 +3,11 @@
 
 + 함수의 매개변수
 
-  + *args --> tuple 로 받음
+  + *args --> tuple 로 받음 --> 인자를 몇개 받아야할 지 모를 때, 유용
 
-  + **kwargs --> dictionary로 받음
+  + **kwargs --> dictionary로 받음 --> key : value 형태로 받을 때 유용
 
-참고 : https://brunch.co.kr/@princox/180
+  + 참고 : https://brunch.co.kr/@princox/180
 
 + 클로저 / 데코레이터
 
