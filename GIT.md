@@ -20,3 +20,7 @@
 * git commit -m "description message"
 
 * git push (server_alias) (branch_name)
+
+* git clone (git_repository address) : address에 있는 repository clone
+
+* git clone 시 SSL certificate problem: self signed certificate in certificate chain  해결법 : git config --global http.sslVerify false 설정 변경
