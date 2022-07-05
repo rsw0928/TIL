@@ -19,3 +19,9 @@
   + pip freeze > requirement.txt : 라이브러리 리스트 requirement.txt로 save
   + pip install -r requirements.txt : requirement.txt에 있는 라이브러리 한번에 설치
 
+
+# 유용한 python library
+
++ python-dotenv
+  + python global 변수를 미리 만들어놓고 코드 실행시 os library로 환경변수로 지정
+  + https://velog.io/@yvvyoon/python-env-dotenv
